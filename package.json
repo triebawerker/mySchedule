@@ -1,0 +1,14 @@
+{
+  "name": "my-schedule",
+  "version": "1.0.0",
+  "description": "Manage classes, trainers, pupils and lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "triebawerke",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
